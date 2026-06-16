@@ -1,5 +1,8 @@
 # Maze Solver 
 
+Live Demo:
+https://advanture-qlw3izvbae2sulncwq32rq.streamlit.app/
+
 A Python-based Maze Solver application that finds and visualizes the path between a start point and an end point using different search algorithms.
 
 ---
